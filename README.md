@@ -1,7 +1,7 @@
 # :: passthief :unlock: :running::dash:
 A Python script to steal all the passwords via the use of plugins :smiling_imp:
 ## Disclaimer:
-Do not use this tool for illegal purposes ( steal from somebody else ).<br />
+This tool is not intended to be used for illegal and/or malicious purposes such as theft, violating privacy etc.<br />
 I am not responsible for any damage you cause while using this tool.
 ## Usage:
 <b>passthief</b> is a Python script designed to work with dynamic loading of modules or plugins, whatever you may call them.<br />
